@@ -1,0 +1,5 @@
+2018-11-03 11:48:33
+s
+blad
+Koniec
+Czas obliczen =  5.446305000[s]
